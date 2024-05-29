@@ -1,0 +1,25 @@
+{
+  "Série": [
+    {
+      "id": "1",
+      "nomeSerie": "Narcos",
+      "numTemporadas": 4,
+      "anoLancamento": "2016",
+      "estudio": "Netflix"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "La Casa de Papel",
+      "numTemporadas": 6,
+      "anoLancamento": "2017",
+      "estudio": "Netflix"
+    },
+    {
+      "nomeSerie": "chaves",
+      "numTemporada": 6,
+      "nomeEstudio": "testes",
+      "anoLancamento": 2005,
+      "id": "5"
+    }
+  ]
+}
